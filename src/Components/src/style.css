@@ -1,0 +1,38 @@
+/* navbar */
+.navbar{
+    border-radius: 25px;
+    font-family: 'Nunito Sans', sans-serif;
+    /* font-weight: bold; */
+    position: absolute;
+    background: #FFFFFF;
+    /* color: #6379F4 ; */
+}
+
+.logo{
+    
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: bold;
+    font-size: 29px;
+    color: #6379F4 ;
+
+}
+/* footer */
+.foot{
+    background: #6379F4;
+
+}
+
+/* sidebar */
+.col1{
+    padding: "10px";
+    width: "40%";
+    background: "#f0f0f0";
+    border-radius: 25px;
+}
+
+.sidebar {border-radius: 25px !important;  overflow: hidden !important;}
+
+.col2{
+    border-radius: 25px;
+    background-color: #6379F4;
+}
